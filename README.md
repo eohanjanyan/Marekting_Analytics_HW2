@@ -29,6 +29,9 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
+I shall not be responsible for the code not running if you do not install the requirements. 
+:)
+
 ## Running the Code
 
 1. Clone the repository or download bandit.py
